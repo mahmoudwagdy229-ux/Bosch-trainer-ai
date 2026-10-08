@@ -1,0 +1,6 @@
+1. Place all files in the same GitHub Pages repository root.
+2. Add this line immediately before </body> in index.html:
+   <script src="pwa-setup.js"></script>
+3. Commit the files and open the published HTTPS link.
+4. iPhone: Safari > Share > Add to Home Screen.
+5. Android: Chrome > menu > Install app / Add to Home screen.

@@ -1,0 +1,11 @@
+Upload these files to the repository root:
+- expanded-categories.js
+- image-manager.js
+- sw.js
+
+At the end of index.html, immediately before </body>, use this order:
+<script src="pwa-setup.js"></script>
+<script src="expanded-categories.js"></script>
+<script src="image-manager.js"></script>
+
+Then Commit changes and wait for Pages deployment.
